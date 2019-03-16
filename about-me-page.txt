@@ -4,6 +4,6 @@
 	<title>about</title>
 </head>
 <body>
-	<h1>Hellow</h1>
+	<h1>Hellor</h1>
 </body>
 </html>
